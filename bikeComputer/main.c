@@ -2,6 +2,9 @@
 Author: Gijs van Maanen
 Date last modified: 12-02-2025
 For: School project for C programming
+
+ToDo:
+ - Clean everything up a bit
 */
 
 #include <stdio.h>
