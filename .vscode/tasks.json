@@ -1,0 +1,27 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build C project",
+            "type": "shell",
+            "command": "/usr/bin/gcc",
+            "args": [
+                "-g",
+                "${workspaceFolder}/bikeComputer/main.c",
+                "${workspaceFolder}/bikeComputer/bike_store.c",
+                "${workspaceFolder}/bikeComputer/bike_math.c",
+                "${workspaceFolder}/bikeComputer/bike_measure.c",
+                "-o",
+                "${workspaceFolder}/bikeComputer/main"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "detail": "Generated task to build C project."
+        }
+    ]
+}
