@@ -1,3 +1,9 @@
+/*
+Author: Gijs van Maanen
+Date last modified: 12-02-2025
+For: School project for C programming
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
