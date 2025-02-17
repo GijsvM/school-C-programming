@@ -6,6 +6,7 @@
         "cstdint": "c",
         "bike_measure.h": "c",
         "bike_math.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "bike_store.h": "c"
     }
 }

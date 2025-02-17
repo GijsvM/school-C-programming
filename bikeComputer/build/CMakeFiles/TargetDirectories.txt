@@ -1,0 +1,9 @@
+/home/gijs/Documents/school/C-programming/bikeComputer/build/CMakeFiles/bikeComputer.dir
+/home/gijs/Documents/school/C-programming/bikeComputer/build/CMakeFiles/package.dir
+/home/gijs/Documents/school/C-programming/bikeComputer/build/CMakeFiles/package_source.dir
+/home/gijs/Documents/school/C-programming/bikeComputer/build/CMakeFiles/edit_cache.dir
+/home/gijs/Documents/school/C-programming/bikeComputer/build/CMakeFiles/rebuild_cache.dir
+/home/gijs/Documents/school/C-programming/bikeComputer/build/CMakeFiles/list_install_components.dir
+/home/gijs/Documents/school/C-programming/bikeComputer/build/CMakeFiles/install.dir
+/home/gijs/Documents/school/C-programming/bikeComputer/build/CMakeFiles/install/local.dir
+/home/gijs/Documents/school/C-programming/bikeComputer/build/CMakeFiles/install/strip.dir

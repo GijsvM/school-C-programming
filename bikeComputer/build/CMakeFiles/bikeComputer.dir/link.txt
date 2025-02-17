@@ -1,0 +1,1 @@
+/usr/bin/gcc -rdynamic -Wl,--dependency-file=CMakeFiles/bikeComputer.dir/link.d CMakeFiles/bikeComputer.dir/main.c.o CMakeFiles/bikeComputer.dir/bike_math.c.o CMakeFiles/bikeComputer.dir/bike_measure.c.o CMakeFiles/bikeComputer.dir/bike_store.c.o -o bikeComputer
