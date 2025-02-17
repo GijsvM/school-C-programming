@@ -1,12 +1,3 @@
-/*
-Author: Gijs van Maanen
-Date last modified: 12-02-2025
-For: School project for C programming
-
-ToDo:
- - Clean everything up a bit
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -40,7 +31,6 @@ int main()
                    labels[i], bikeMathGetValueForDataType(measurement, dataTypes[i]), avg, min, max, units[i]);
         }
         printf("\n");
-
         sleep(1);
     }
 }
